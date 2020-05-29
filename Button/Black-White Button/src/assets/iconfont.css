@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("iconfont.eot?0b5f7adc8e0d4292120ad8d3398848e4?#iefix") format("embedded-opentype"),
+url("iconfont.woff2?0b5f7adc8e0d4292120ad8d3398848e4") format("woff2"),
+url("iconfont.woff?0b5f7adc8e0d4292120ad8d3398848e4") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: iconfont !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-bag:before {
+	content: "\f101";
+}
+.icon-bars:before {
+	content: "\f102";
+}
+.icon-phone:before {
+	content: "\f103";
+}
+.icon-search:before {
+	content: "\f104";
+}

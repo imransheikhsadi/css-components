@@ -1,0 +1,19 @@
+{
+  "name": "css-components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Imran Sheikh",
+  "license": "ISC",
+  "dependencies": {
+    "atomizer": "^3.7.0",
+    "chokidar": "^3.4.0",
+    "icon-font-generator": "^2.1.10",
+    "socket.io": "^2.3.0",
+    "webfonts-generator": "^0.4.0",
+    "write": "^2.0.0"
+  }
+}
