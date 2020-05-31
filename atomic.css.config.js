@@ -16,7 +16,9 @@ module.exports = {
         'Mxl': '@media(max-width:1200px)',
     },
         "custom": {
-           'content': '\'\''
+           'content': '\'\'',
+           'border_bottom': '1px solid gray',
+           'box_shadow': '0 10px 10px #aaa'
         },
         "classNames": [
 
